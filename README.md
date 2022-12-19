@@ -27,7 +27,7 @@
 | ----------------- | :-----: | ----- |
 | Main - RecordPopUpView     | `윤수빈` | 프로젝트 세팅, 마이푸 기록 모달 뷰, 네트워크 세팅 및 연결 |
 | MainView                   | `이승헌` | 메인 뷰, 네트워크 연결 |
-| FriendsView                | `박의서` | 친구 응원하기 뷰, 네트워크 연결 |
+| FriendsView                | `박의서` | 친구 응원하기 뷰, 친구 스토리 뷰, 네트워크 연결 |
 | ReportView                 | `김인영` | 마이푸 리포트 뷰 |
 
 </br>
@@ -236,6 +236,16 @@ MyPooDiary
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2022-11-20 at 08 41 49](https://user-images.githubusercontent.com/70744494/202875903-67209771-0861-4a01-bbfd-2fed19de9ffa.gif)
 
+</details>  
 
+<br>
 
-</details>
+## 📝 회고
+<details>
+<summary>접기/펼치기</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+[라이푸 팀 회고 페이지](https://www.notion.so/8aedf90bb5b04d3f8687eafd81c5797c)
+
+</details>  
+
